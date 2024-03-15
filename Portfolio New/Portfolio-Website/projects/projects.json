@@ -1,0 +1,33 @@
+[
+  {
+    "name": "AutoGo",
+    "desc": "AutoGo is a leading cab booking platform that connects passengers with reliable transportation services.",
+    "image": "CabBOOKING",
+    "category": "mern",
+    "links": {
+      "view": "https://autogo-booking.netlify.app/",
+      "code": "https://github.com/Ag18012003/Cab-Booking-"
+    }
+  },
+  {
+    "name": "Tour Website",
+    "desc": "Designed and developed an engaging tour website showcasing capativity destinations and seamless user experiences",
+    "image": "TourWebsite",
+    "category": "mern",
+    "links": {
+      "view": "https://tour-websitename.netlify.app/",
+      "code": "https://github.com/Ag18012003/Tour-Website"
+    }
+  },
+  {
+    "name": "Dice Roll Game",
+    "desc": "Design and implemented a dynamic dice roll game utilizes random number generation &attractive interface.",
+    "image": "Dicegame",
+    "category": "mern",
+    "links": {
+      "view": "https://vocal-medovik-7d6320.netlify.app/",
+      "code": ""
+    }
+  }
+  
+]
